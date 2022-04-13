@@ -152,11 +152,10 @@ curl --location --request GET 'http://localhost:8080/network/btc'
 ```
 
 ### Responses:
-200 OK
-400 Bad Request
-404 Not Found
+200 OK<br>
+400 Bad Request<br>
+404 Not Found<br>
 500 Internal Server Error
-
 </p>
 </details>
 
@@ -200,9 +199,9 @@ curl --location --request GET 'http://localhost:8080/network/btc/tx/2b068b203412
 ```
 
 ### Responses:
-200 OK
-400 Bad Request
-404 Not Found
+200 OK<br>
+400 Bad Request<br>
+404 Not Found<br>
 500 Internal Server Error
 
 </p>
